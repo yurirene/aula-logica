@@ -1,1 +1,78 @@
-asfsadasfdsfasfasfsd
+/**
+var numero = prompt('Digite um numero');
+
+if (numero > 10) {
+  console.log('Maior que 10');
+} else  {
+  console.log('Não é maior que 10')
+}
+
+
+var valor = prompt('Digite um numero');
+
+if (valor > 0) {
+    console.log('positivo')
+} else if (valor < 0) {
+  console.log('negativo');
+} else {
+  console.log('zero');
+}
+
+*/
+/**
+
+if (valor > 0) {
+  console.log('positivo')
+} else if (valor == 0) {
+   console.log('zero')
+} else if (valor < 0) {
+  console.logG('negativo')
+}
+*/
+/**
+
+Ariel - preto
+Paulina - Branco
+Yuri - Vermelho
+
+if (pessoa == 'Ariel') {
+  console.log('Cor: Preto')
+} else if (pessoa == 'Paulina') {
+  console.log('Cor: Branco')
+} else if (pessoa == 'Yuri') {
+  console.log('Cor: Vermelho');
+} else {
+  console.log('Não sei')
+}
+
+*/
+
+var pessoa = prompt('Nome');
+
+var numero = prompt('Numero')
+
+
+    if (numero > 18) {
+      console.log('Maior de idade');
+    } else {
+      console.log('menor de idade')
+    }
+
+
+switch (pessoa) {
+  case 'Ariel':
+    break;
+  case 'Paulina':
+    break;
+   default :
+    console.log('nao existe')
+    
+    
+    
+      if (condicao < 35) {
+        //bloco de informacao
+      } else {
+        //bloco de informacao
+      }
+    
+    
